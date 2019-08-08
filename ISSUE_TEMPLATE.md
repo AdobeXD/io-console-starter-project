@@ -6,7 +6,7 @@ Note that any underlying issues with the content shared in this repository can o
 
 This is an issue regarding:
 
-- [ ] The XD Awesome repository README.
+- [ ] The XD IO Console Starter project repository README.
 - [ ] The open source plugins shared within this repo.
 - [ ] The utility libraries shared within this repo.
 - [ ] The developer tools shared within this repo.

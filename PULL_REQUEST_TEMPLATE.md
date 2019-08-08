@@ -1,6 +1,6 @@
-# Submit your project for inclusion in XD-Awesome
+# Submit your project for inclusion in IO Console Starter project
 
-Hey! We're happy you want to submit your project to XD-Awesome. Please create a pull request and ensure that you fill out the following template:
+Hey! We're happy you want to submit your project to IO Console Starter project. Please create a pull request and ensure that you fill out the following template:
 
 ## **Name of your project or content**
 
@@ -11,10 +11,6 @@ Hey! We're happy you want to submit your project to XD-Awesome. Please create a 
 **License:** the license of your project or content (must be open source)
 
 **Category:** the category you want the project listed under
-
-## Why is it awesome?
-
-_Tell us a little more about your project and why it would be great for inclusion in XD-Awesome._
 
 ## Checklist:
 
