@@ -3,8 +3,16 @@
     "name": "",
     "version": "0.0.1",
     "icons": [
-	{ "width": 24, "height": 24, "path": "images/icon@1x.png" },
-        { "width": 48, "height": 48, "path": "images/icon@2x.png" }
+        {
+            "width": 24,
+            "height": 24,
+            "path": "images/icon@1x.png"
+        },
+        {
+            "width": 48,
+            "height": 48,
+            "path": "images/icon@2x.png"
+        }
     ],
     "host": {
         "app": "XD",
@@ -13,7 +21,6 @@
     "uiEntryPoints": [
         {
             "type": "menu",
-            "label": "Create Rectangle",
             "commandId": "createRectangle"
         }
     ]
